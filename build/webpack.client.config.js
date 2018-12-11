@@ -45,5 +45,5 @@ if (process.env.NODE_ENV === 'production') {
     })
   )
 }
-
+//暴露config
 module.exports = config
